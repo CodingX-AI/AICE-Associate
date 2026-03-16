@@ -1,213 +1,199 @@
-# **코딩엑스 AICE Associate 모의고사**  
+KT AICE Associate 자격시험 대비 교재
 
-📌 **이 실습 코드는 코딩엑스(CodingX)에서 출판한**  
-📌 **AICE ASSOCIATE 실전대비서에서 사용하는 공식 실습 코드입니다.**  
+# AICE ASSOCIATE 실전대비서 실습 코드 저장소
 
----
+> 본 저장소는 코딩엑스(CodingX)에서 출판한 **「AICE ASSOCIATE 실전대비서」** 교재의 실습 코드와 데이터 파일을 제공합니다.  
+> 교재에서 제공되는 **모의고사 4회(해설 포함)** 와 **실전 모의고사 2회(문제 파일 제공)** 의 실습 환경을 GitHub에서 실행할 수 있도록 구성되어 있습니다.
 
-## **📌 개요**
-이 저장소는 **AICE Associate 자격시험**을 준비하는 학습자를 위한 **모의고사 4종 및 실전 모의고사 2종을 포함**하고 있습니다.  
-본 모의고사를 통해 **AI 구현 프로세스(데이터 분석, 데이터 전처리, AI 모델링)를 단계별로 학습**할 수 있습니다.  
+<p align="center">
+  <a href="https://codingx.ai/" target="_blank">
+    <img src="images/codingx_logo.png" alt="CodingX" width="220">
+  </a>
+</p>
 
-또한, **코딩엑스(CodingX)에서는 AICE Associate 자격시험 준비를 위한 정기시험 대비 Zoom 라이브 특강 및 종합 학습 VOD를 제공**하고 있습니다.  
-**자격증 대비 강의가 필요하신 분들은 아래 링크를 통해 확인해 주세요.**  
+<p align="center">
+  <a href="https://codingx.ai/" target="_blank"><strong>코딩엑스 홈페이지 바로가기</strong></a>
+</p>
 
-🔗 **[코딩엑스 홈페이지](https://codingx.ai/)** 🚀 
+<p align="center">
+<img src="images/Book_cover.png" width="350">
+</p>
 
----
-
-## **📂 실습 파일 구성**
-이 저장소에는 다음과 같은 주요 파일이 포함되어 있습니다.  
-
-### **1️⃣ 실습 코드**
-| 파일명 | 설명 |
-|--------|------------------------------------------------|
-| `AICE_asso_classification.ipynb` | 분류 문제 : 데이터분석 ~ AI 모델링 실습 |
-| `AICE_asso_regression.ipynb` | 회귀 문제 : 데이터분석 ~ AI 모델링 실습 |
-
-- **이 실습 코드는 KT AICE Associate 자격시험 대비를 위해 제작**되었습니다.  
-- **데이터 분석 → 전처리 → 모델링 → 평가**의 AI 모델링 프로세스를 실습할 수 있습니다.  
-- `AICE_asso_classification.ipynb`: **머신러닝/딥러닝 기반 분류 모델 구현 및 성능 평가**  
-- `AICE_asso_regression.ipynb`: **머신러닝/딥러닝 기반 회귀 모델 구현 및 성능 평가 + 하이퍼파라미터 튜닝**  
+<p align="center">
+</p>
 
 ---
 
-### **2️⃣ 데이터 파일**
-| 파일명 | 설명 |
-|----------------------------|--------------------------------------|
-| `Days_Information_Data.csv` | 일별 기상 및 환경 데이터 |
-| `Metro_Traffic_Volume_Data.csv` | 지하철 교통량 데이터 |
-| `hotel_bookings.csv` | 호텔 예약 관련 데이터 |
+## 📖 교재 특징
 
-이 데이터들은 **머신러닝 및 딥러닝 모델을 학습시키기 위한 실습용 데이터셋**으로 활용됩니다.
+- AICE 시험 범위 **핵심 개념 압축 정리**
+- 분류·회귀 **모의고사 총 6회 제공**
+  - 해설 포함 모의고사 4회
+  - 실전 모의고사 2회
+- **최신 기출 경향 반영** 및 **신유형 문항** 수록
+- **AICE 전문 강사 직필** 교재
+
+본 교재는 **코딩엑스(CodingX) AICE 전문 강사 조우연**이 집필한 시험 대비 교재입니다.
+
+- 누적 교육 인원 **3,500명+**
+- 누적 강의 **520시간+**
 
 ---
 
-## **🔧 실습 환경**
-실습을 실행하기 위해서는 **Python과 주요 데이터 분석/머신러닝 라이브러리**가 필요합니다.  
-아래 환경을 구축한 후 Jupyter Notebook을 실행하면 실습을 원활히 진행할 수 있습니다.
+## 👩🏻‍🎓 추천 학습 대상
 
-### **1️⃣ 필수 라이브러리 설치**
+다음과 같은 학습자에게 적합합니다.
+
+- 단기간에 AICE Associate 자격증 취득을 목표로 하는 분
+- 불필요한 이론 없이 핵심 개념과 문제 풀이 중심으로 시험을 준비하고 싶은 분
+- 파이썬 및 데이터 분석 기초 지식이 있는 분
+- 취업·이직·직무 역량 증명을 위해 AI 자격증이 필요한 분
+
+---
+
+## ✔️ 모의고사 구성
+
+본 저장소에는 교재와 연계된 **총 6개의 모의고사 실습 코드**가 포함되어 있습니다.
+
+### 교재 해설 포함 모의고사 (4회)
+
+| 모의고사 | 주제 |
+|---|---|
+| 모의고사 1 | 호텔 예약 취소 여부 예측 |
+| 모의고사 2 | 지하철 이용객 수 예측 |
+| 모의고사 3 | 심장병 발생 여부 예측 |
+| 모의고사 4 | 학생 성적 예측 |
+
+각 모의고사는 **데이터 분석 → 전처리 → 모델 학습 → 평가**까지  
+AICE 시험에서 요구하는 **AI 구현 프로세스 전체를 실습**할 수 있도록 구성되어 있습니다.
+
+---
+
+### 실전 모의고사 (2회)
+
+| 모의고사 | 주제 |
+|---|---|
+| 실전 모의고사 1 | 퇴사 여부 예측 |
+| 실전 모의고사 2 | 주택 가격 예측 |
+
+실전 모의고사는 **해설 없이 문제 및 정답 파일만 제공**되며  
+교재에서 학습한 내용을 기반으로 **실제 시험처럼 문제 해결 연습**을 할 수 있도록 설계되었습니다.
+
+---
+
+## 저장소 구조
+AICE-Associate
+
+├─ 모의고사1-호텔예약취소여부 예측 \
+├─ 모의고사2-지하철이용객수 예측 \
+├─ 모의고사3-심장병 예측 \
+├─ 모의고사4-학생성적 예측 
+
+├─ 실전 모의고사1-퇴사여부 예측 \
+├─ 실전 모의고사2-주택가격 예측 
+
+└─ images
+
+
+각 폴더에는 다음 파일이 포함됩니다.
+
+- 모의고사 문제 코드 (`.ipynb`)
+- 모의고사 정답 코드 (`_정답.ipynb`)
+- 실습 데이터 (`.csv`)
+
+---
+
+## AICE Associate 시험 환경
+
+AICE Associate 시험은 아래와 같은 환경에서 진행됩니다.
+
+### HW 사양
+
+- 1 CPU
+- 16 GB Memory
+
+### 설치 소프트웨어 버전
+
+| Library | Version |
+|---|---|
+| Python | 3.10.13 |
+| TensorFlow | 2.13.1 |
+| pandas | 1.5.3 |
+| numpy | 1.23.5 |
+| matplotlib | 3.7.1 |
+| seaborn | 0.12.1 |
+
+본 저장소의 실습 코드는 **AICE Associate 시험 환경을 기준**으로 작성되었습니다.
+
+---
+
+## 실행 환경
+
+실습 코드는 **Python 기반 데이터 분석 및 머신러닝 환경**에서 실행할 수 있습니다.
+
+### 필수 라이브러리 설치
+
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras xgboost lightgbm
+pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras xgboost lightgbm 
 ```
 
-### **2️⃣ Jupyter Notebook 실행**
-```bash
+## Jupyter Notebook 실행
+```
 jupyter notebook
 ```
-실습 파일(`.ipynb`)을 실행하여 학습을 진행할 수 있습니다.
+각 .ipynb 파일을 열어 순서대로 실행하면 됩니다.
+
+## AICE 자격증 안내
+
+<p align="center">
+<img src="images/badge_basic.png" width="120">
+<img src="images/badge_asso.png" width="120">
+</p>
+
+AICE(AI Certificate for Everyone)는 **KT와 한국경제신문이 공동 주관하는 AI  활용 능력 시험**입니다.
+
+- **AICE BASIC** : 비전공자를 위한 AI 기초 자격증 (노코드)
+- **AICE Associate** : Python 기반 AI 활용 능력을 평가하는 **국가공인** AI 자격증
+
+코딩엑스(CodingX)는 **AICE 전문 교육기관**으로  
+AICE 시험 대비 강의 및 교육 프로그램을 운영하고 있습니다.
+
+
+> 🔗 코딩엑스 홈페이지:  https://codingx.ai/
+
 
 ---
 
-## **🛠 실습 개요**
-각 실습 파일에서 진행하는 주요 과정을 간략히 설명합니다.
+## Author
 
-### **📌 Step 1. 데이터 분석 및 시각화**
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+**조우연**
 
-# 데이터 불러오기
-df = pd.read_csv("hotel_bookings.csv")
-# 데이터 구조 확인
-print(df.info())
-# 수치형 데이터 분포 확인 (시각화)
-sns.histplot(df['lead_time'])  
-plt.show()
-```
-✔ **데이터 구조 파악 (`info()`, `describe()`)**  
-✔ **결측치 및 이상치 탐색**  
-✔ **시각화를 통해 데이터 분포 분석**  
+- 코딩엑스 AICE Basic·Associate 교육과정 설계 및 콘텐츠 개발
+- AICE 누적 교육 인원 **3,500명+**  
+- AICE 누적 강의 **520시간+**
+- 2025 ICR 이노베이션스퀘어 우수강사 선정
+- AAAI 2025 (Oral), KCC 2024 (Oral) 논문 발표
+- 아주대학교 인공지능 석사
+- 아주대학교 수학·소프트웨어학 학사 (차석, 조기졸업)
 
 ---
 
-### **📌 Step 2. 데이터 전처리**
-```python
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
+## 이용 안내 및 저작권
 
-# X, y 분리
-X = df.drop(columns=['is_canceled'])  # 타겟 변수 제외
-y = df['is_canceled']
+본 저장소의 코드는 **「AICE ASSOCIATE 실전대비서」 교재 구매자를 위한 학습 자료**입니다.
 
-# 학습데이터 분할
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+다음 행위는 허용되지 않습니다.
 
-# 스케일링
-scaler = StandardScaler()
-X_train_scaled = scaler.fit_transform(X_train)
-X_test_scaled = scaler.transform(X_test)
-```
-✔ **결측치 처리 및 범주형 데이터 변환(인코딩)**  
-✔ **훈련 데이터와 테스트 데이터 분할 (`train_test_split`)**  
-✔ **스케일링 적용 (`StandardScaler`)**  
+- 교재 미구매자를 대상으로 한 코드 공유  
+- GitHub 저장소의 전체 또는 일부 재배포  
+- 교육 콘텐츠 또는 강의 자료로 무단 활용  
+- 상업적 이용  
+
+저작권은 **코딩엑스(CodingX)** 및 저자에게 있습니다.
 
 ---
 
-### **📌 Step 3. 머신러닝 모델 학습 및 평가**
-```python
-from xgboost import XGBClassifier
-from sklearn.metrics import accuracy_score
+## 문의
 
-# 모델 정의
-model = XGBClassifier(n_estimators=100, max_depth=5)
-
-# 모델 학습
-model.fit(X_train_scaled, y_train)
-
-# 예측
-y_pred = model.predict(X_test_scaled)
-
-# 모델 성능 평가
-accuracy = accuracy_score(y_test, y_pred)
-print("Model Accuracy:", accuracy)
-```
-✔ **머신러닝 모델 학습 및 예측 (`fit()`, `predict()`)**  
-✔ **모델 성능 평가 (`accuracy_score`, ...)**  
-
----
-
-### **📌 Step 4. 딥러닝 모델 학습 및 평가**
-```python
-import tensorflow as tf
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
-
-# 모델 정의
-model = Sequential([
-    Dense(64, activation='relu', input_shape=(X_train.shape[1],)),
-    Dense(32, activation='relu'),
-    Dense(1, activation='sigmoid')
-])
-
-# 모델 컴파일
-model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-
-# 모델 학습
-model.fit(X_train_scaled, y_train, epochs=10, batch_size=32, validation_data=(X_test_scaled, y_test))
-```
-✔ **Keras를 활용한 신경망 모델 구축 (`Sequential()`)**  
-✔ **신경망 학습 (`fit()`) 및 평가 (`evaluate()`)**  
-
----
-
-## **💡 KT AICE Associate 시험 대비 가이드**
-이 실습 파일들은 **KT AICE Associate 자격시험**을 준비하는 데 도움이 됩니다.  
-시험에서는 **AI 모델링 프로세스(데이터 분석, 전처리, 모델링) 전반을 이해하고 구현하는 능력**이 요구됩니다.
-
-📌 **시험 대비 핵심 개념**  
-✅ **데이터 처리 및 비시각화 분석** : pandas의 주요 함수 (`groupby`, `merge`, `fillna`, `drop` 등) 활용법 숙지  
-✅ **데이터 시각화 분석** : matplotlib & seaborn으로 그래프 생성 흐름 (`figure` → `plot` → `show`) 익히기  
-✅ **데이터 전처리** : scikit-learn의 일관성 이해 (`객체 생성` → `fit()` → `transform()`)  
-✅ **머신러닝 & 딥러닝 모델의 전반적인 구현 프로세스 이해** (`모델 정의(및 컴파일)` → `모델 학습` → `모델 평가`)
-
-시험은 실습 코드에 포함되지 않은 내용도 출제될 수 있으므로,  
-**단순히 코드를 외우기보다 AI 구현 프로세스를 전반적으로 이해하는 것이 중요합니다!** 🚀  
-
----
-## **📢 더에이아이랩(The AI Lab) 강의 안내**  
-### **✔ AICE BASIC vs AICE Associate 비교**
-<table>
-  <tr align="center">
-    <th>구분</th>
-    <th>AICE BASIC</th>
-    <th>AICE Associate</th>
-  </tr>
-  <tr align="center">
-    <td><strong>대상</strong></td>
-    <td>비전공자, 기초 학습자</td>
-    <td>Python으로 실질적인 AI 구현 프로세스를 학습하고자 하는 자</td>
-  </tr>
-  <tr align="center">
-    <td><strong>코딩 여부</strong></td>
-    <td>🟢 <strong>Python 없이</strong> 🟢데이터 분석 및 모델링 실습 가능</td>
-    <td>🔵 <strong>Python 기반</strong> 🔵으로 데이터 분석 및 모델 구현</td>
-  </tr>
-  <tr align="center">
-    <td><strong>학습 난이도</strong></td>
-    <td><strong>초급</strong> (기초 AI 개념 및 실습)</td>
-    <td><strong>중급</strong> (실제 AI 모델 구현)</td>
-  </tr>
-  <tr align="center">
-    <td><strong>배지</strong></td>
-    <td><img src="https://github.com/TheAILab-CodingX/AICE-Associate/blob/main/images/%E1%84%87%E1%85%A2%E1%84%8C%E1%85%B5_BASIC.png" width="120"></td>
-    <td><img src="https://github.com/TheAILab-CodingX/AICE-Associate/blob/main/images/%E1%84%87%E1%85%A2%E1%84%8C%E1%85%B5_Asso.png" width="120"></td>
-  </tr>
-  <tr align="center">
-    <td><strong>공인교육기관</strong></td>
-    <td colspan="2"><strong><img src="https://github.com/TheAILab-CodingX/AICE-Associate/blob/main/images/logo_theailab.png" width="150"></strong></td>
-  </tr>
-</table>
-
-
-🔗 **[AICE BASIC 자격시험 대비 강의 VOD 구매하기](https://coding-x.com/class/15224/KT-AICE-BASIC-%EC%A2%85%ED%95%A9-(%EC%9D%B4%EB%A1%A0+%EC%8B%A4%EC%8A%B5))** 🚀  
-🔗 **[AICE Associate 자격시험 대비 강의 VOD 구매하기](https://coding-x.com/class/15247/KT-AICE-ASSOCIATE-%EC%A2%85%ED%95%A9-(%EC%9D%B4%EB%A1%A0-+-%EC%8B%A4%EC%8A%B5))** 🚀  
-
----
-
-📌 **AICE BASIC과 AICE Associate 시험을 모두 대비하고 싶다면, 두 강의를 함께 수강하는 것을 추천합니다.**  
-📌 **더에이아이랩(The AI Lab) 강의를 통해 AI 모델링 프로세스를 단계별로 실습하고, 자격증을 효과적으로 준비하세요!** 🚀
-
-📌 **이 저장소가 도움이 되셨다면, GitHub ⭐ Star를 눌러주세요!** 😊 🚀
+코딩엑스(CodingX)
+https://codingx.ai/
