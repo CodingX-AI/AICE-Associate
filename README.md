@@ -1,19 +1,13 @@
-KT AICE Associate 자격시험 대비 교재
+<p align="left">
+  <a href="https://codingx.ai/" target="_blank">
+    <img src="images/logo_codingx.png" alt="CodingX" width="220">
+  </a>
+</p> 
 
 # AICE ASSOCIATE 실전대비서 실습 코드 저장소
 
 > 본 저장소는 코딩엑스(CodingX)에서 출판한 **「AICE ASSOCIATE 실전대비서」** 교재의 실습 코드와 데이터 파일을 제공합니다.  
 > 교재에서 제공되는 **모의고사 4회(해설 포함)** 와 **실전 모의고사 2회(문제 파일 제공)** 의 실습 환경을 GitHub에서 실행할 수 있도록 구성되어 있습니다.
-
-<p align="center">
-  <a href="https://codingx.ai/" target="_blank">
-    <img src="images/codingx_logo.png" alt="CodingX" width="220">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://codingx.ai/" target="_blank"><strong>코딩엑스 홈페이지 바로가기</strong></a>
-</p>
 
 <p align="center">
 <img src="images/Book_cover.png" width="350">
@@ -196,4 +190,5 @@ AICE 시험 대비 강의 및 교육 프로그램을 운영하고 있습니다.
 ## 문의
 
 코딩엑스(CodingX)
+
 https://codingx.ai/
