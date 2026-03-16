@@ -24,7 +24,7 @@
 ### 1. 다운로드 방법 (택 1)
 * **방법 A (권장):** [파일 다운로드 링크](https://github.com/CodingX-AI/AICE-Associate/releases) 에서 ```모의고사v연-월-일.zip``` 파일을 다운로드합니다.
 * **방법 B (교재 안내):** 우측 상단 초록색 **[Code]** 버튼 클릭 → **[Download ZIP]** 을 선택하여 전체 파일을 다운로드합니다.
-* *파일명 형식: `모의고사v연-월-일.zip`*
+  * *파일명 형식: `모의고사v연-월-일.zip`*
   
 ### 2. 🔒 실습 파일 암호 확인  
 ZIP 파일 압축을 해제할 때 아래의 교재 인증 암호를 입력해야 실습이 가능합니다.
@@ -160,7 +160,7 @@ jupyter notebook
 AICE(AI Certificate for Everyone)는 **KT와 한국경제신문이 공동 주관하는 AI  활용 능력 시험**입니다.
 
 - **AICE BASIC** : 비전공자를 위한 AI 기초 자격증 (노코드)
-- **AICE Associate** : Python 기반 AI 활용 능력을 평가하는 **국가공인** AI 자격증
+- **AICE Associate** : Python 기반 AI 활용 능력을 평가하는 ✨**국가공인 AI 자격증**✨
 
 코딩엑스(CodingX)는 **AICE 전문 교육기관**으로  
 AICE 시험 대비 강의 및 교육 프로그램을 운영하고 있습니다.
