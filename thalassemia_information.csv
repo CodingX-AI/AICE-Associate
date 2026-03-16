@@ -1,0 +1,921 @@
+id,ca,thal
+1,0.0,fixed defect
+2,3.0,normal
+3,2.0,reversable defect
+4,0.0,normal
+5,0.0,normal
+6,0.0,normal
+7,2.0,normal
+8,0.0,normal
+9,1.0,reversable defect
+10,0.0,reversable defect
+11,0.0,fixed defect
+12,0.0,normal
+13,1.0,fixed defect
+14,0.0,reversable defect
+15,0.0,reversable defect
+16,0.0,normal
+17,0.0,reversable defect
+18,0.0,normal
+19,0.0,normal
+20,0.0,normal
+21,0.0,normal
+22,0.0,normal
+23,0.0,normal
+24,2.0,reversable defect
+25,2.0,reversable defect
+26,0.0,normal
+27,0.0,normal
+28,0.0,normal
+29,0.0,normal
+30,0.0,reversable defect
+31,2.0,normal
+32,2.0,reversable defect
+33,0.0,normal
+34,0.0,reversable defect
+35,0.0,normal
+36,0.0,normal
+37,0.0,reversable defect
+38,1.0,fixed defect
+39,1.0,reversable defect
+40,0.0,normal
+41,3.0,reversable defect
+42,0.0,reversable defect
+43,2.0,normal
+44,0.0,normal
+45,0.0,normal
+46,1.0,reversable defect
+47,0.0,normal
+48,0.0,reversable defect
+49,1.0,normal
+50,0.0,normal
+51,1.0,normal
+52,0.0,reversable defect
+53,1.0,normal
+54,0.0,normal
+55,1.0,reversable defect
+56,1.0,reversable defect
+57,1.0,reversable defect
+58,0.0,reversable defect
+59,1.0,normal
+60,1.0,normal
+61,0.0,reversable defect
+62,0.0,normal
+63,3.0,reversable defect
+64,0.0,normal
+65,1.0,reversable defect
+66,2.0,reversable defect
+67,0.0,normal
+68,0.0,reversable defect
+69,0.0,reversable defect
+70,0.0,normal
+71,0.0,normal
+72,2.0,reversable defect
+73,2.0,reversable defect
+74,2.0,fixed defect
+75,1.0,normal
+76,0.0,normal
+77,1.0,reversable defect
+78,1.0,normal
+79,0.0,normal
+80,0.0,reversable defect
+81,0.0,normal
+82,0.0,normal
+83,0.0,normal
+84,0.0,reversable defect
+85,0.0,normal
+86,0.0,normal
+87,0.0,normal
+88,0.0,
+89,0.0,normal
+90,0.0,normal
+91,0.0,normal
+92,3.0,reversable defect
+93,3.0,reversable defect
+94,0.0,normal
+95,0.0,normal
+96,1.0,reversable defect
+97,1.0,reversable defect
+98,2.0,reversable defect
+99,1.0,normal
+100,0.0,normal
+101,0.0,normal
+102,0.0,normal
+103,1.0,normal
+104,1.0,normal
+105,3.0,reversable defect
+106,0.0,reversable defect
+107,1.0,reversable defect
+108,1.0,reversable defect
+109,1.0,reversable defect
+110,0.0,reversable defect
+111,0.0,reversable defect
+112,1.0,normal
+113,0.0,fixed defect
+114,0.0,reversable defect
+115,1.0,reversable defect
+116,0.0,fixed defect
+117,0.0,normal
+118,0.0,normal
+119,3.0,reversable defect
+120,1.0,reversable defect
+121,2.0,reversable defect
+122,3.0,reversable defect
+123,0.0,normal
+124,0.0,reversable defect
+125,1.0,normal
+126,0.0,normal
+127,2.0,reversable defect
+128,1.0,reversable defect
+129,0.0,normal
+130,0.0,normal
+131,0.0,reversable defect
+132,1.0,reversable defect
+133,0.0,normal
+134,0.0,normal
+135,0.0,normal
+136,0.0,normal
+137,0.0,reversable defect
+138,1.0,reversable defect
+139,0.0,reversable defect
+140,0.0,normal
+141,0.0,normal
+142,0.0,reversable defect
+143,0.0,normal
+144,0.0,reversable defect
+145,0.0,reversable defect
+146,0.0,normal
+147,3.0,reversable defect
+148,0.0,normal
+149,0.0,normal
+150,1.0,normal
+151,0.0,reversable defect
+152,0.0,normal
+153,0.0,reversable defect
+154,1.0,reversable defect
+155,1.0,normal
+156,3.0,normal
+157,0.0,reversable defect
+158,2.0,reversable defect
+159,2.0,reversable defect
+160,1.0,reversable defect
+161,0.0,reversable defect
+162,3.0,normal
+163,0.0,normal
+164,0.0,normal
+165,2.0,normal
+166,0.0,reversable defect
+167,,normal
+168,1.0,normal
+169,0.0,reversable defect
+170,0.0,normal
+171,1.0,reversable defect
+172,0.0,reversable defect
+173,0.0,normal
+174,0.0,normal
+175,2.0,fixed defect
+176,1.0,reversable defect
+177,3.0,reversable defect
+178,1.0,fixed defect
+179,1.0,normal
+180,3.0,normal
+181,0.0,reversable defect
+182,2.0,reversable defect
+183,2.0,normal
+184,0.0,reversable defect
+185,0.0,normal
+186,2.0,normal
+187,0.0,reversable defect
+188,3.0,fixed defect
+189,1.0,reversable defect
+190,3.0,reversable defect
+191,0.0,normal
+192,3.0,reversable defect
+193,,reversable defect
+194,3.0,normal
+195,0.0,normal
+196,2.0,normal
+197,1.0,normal
+198,0.0,normal
+199,0.0,normal
+200,0.0,normal
+201,0.0,normal
+202,0.0,normal
+203,1.0,reversable defect
+204,0.0,reversable defect
+205,0.0,reversable defect
+206,3.0,reversable defect
+207,2.0,reversable defect
+208,0.0,reversable defect
+209,0.0,normal
+210,0.0,normal
+211,0.0,normal
+212,0.0,reversable defect
+213,0.0,normal
+214,2.0,reversable defect
+215,1.0,normal
+216,0.0,reversable defect
+217,0.0,normal
+218,0.0,normal
+219,2.0,normal
+220,0.0,normal
+221,0.0,normal
+222,0.0,normal
+223,0.0,normal
+224,2.0,reversable defect
+225,2.0,normal
+226,0.0,normal
+227,0.0,normal
+228,1.0,normal
+229,1.0,normal
+230,1.0,normal
+231,0.0,normal
+232,0.0,normal
+233,3.0,normal
+234,1.0,normal
+235,1.0,normal
+236,2.0,normal
+237,0.0,reversable defect
+238,0.0,reversable defect
+239,0.0,normal
+240,0.0,normal
+241,0.0,normal
+242,0.0,normal
+243,0.0,normal
+244,2.0,normal
+245,0.0,normal
+246,0.0,normal
+247,1.0,reversable defect
+248,1.0,normal
+249,2.0,reversable defect
+250,0.0,normal
+251,0.0,fixed defect
+252,1.0,reversable defect
+253,1.0,reversable defect
+254,0.0,normal
+255,0.0,normal
+256,0.0,normal
+257,2.0,normal
+258,0.0,normal
+259,0.0,normal
+260,0.0,reversable defect
+261,1.0,normal
+262,2.0,normal
+263,0.0,normal
+264,0.0,normal
+265,1.0,normal
+266,0.0,fixed defect
+267,0.0,
+268,1.0,fixed defect
+269,0.0,reversable defect
+270,0.0,normal
+271,1.0,reversable defect
+272,0.0,fixed defect
+273,2.0,reversable defect
+274,0.0,normal
+275,2.0,normal
+276,0.0,reversable defect
+277,1.0,normal
+278,0.0,normal
+279,1.0,normal
+280,0.0,normal
+281,1.0,reversable defect
+282,0.0,normal
+283,1.0,reversable defect
+284,0.0,normal
+285,1.0,reversable defect
+286,3.0,fixed defect
+287,2.0,fixed defect
+288,,reversable defect
+289,0.0,reversable defect
+290,0.0,normal
+291,0.0,reversable defect
+292,0.0,normal
+293,0.0,fixed defect
+294,2.0,reversable defect
+295,0.0,normal
+296,0.0,normal
+297,2.0,fixed defect
+298,0.0,reversable defect
+299,0.0,reversable defect
+300,2.0,reversable defect
+301,1.0,reversable defect
+302,1.0,normal
+303,,normal
+304,,
+305,,
+306,,
+307,,fixed defect
+308,,
+309,,
+310,,
+311,,
+312,,
+313,,
+314,,
+315,,
+316,,
+317,,
+318,,
+319,,
+320,,
+321,,normal
+322,,
+323,,
+324,,
+325,,
+326,,
+327,,
+328,,
+329,,normal
+330,,
+331,,
+332,,
+333,,
+334,,
+335,,
+336,,
+337,,
+338,,
+339,,
+340,,
+341,,
+342,,
+343,,
+344,,
+345,,
+346,,
+347,,
+348,,
+349,,
+350,,
+351,,
+352,,
+353,,
+354,,
+355,,
+356,,
+357,,
+358,,
+359,,
+360,,
+361,,
+362,,
+363,,
+364,,
+365,,
+366,,
+367,,
+368,,
+369,,normal
+370,,
+371,,
+372,,
+373,,
+374,,
+375,,
+376,,
+377,,
+378,,
+379,,
+380,,
+381,,
+382,,
+383,,
+384,,
+385,,
+386,,normal
+387,,normal
+388,,
+389,,
+390,,
+391,,
+392,,
+393,,
+394,,
+395,,
+396,,
+397,,
+398,,
+399,,
+400,,
+401,,
+402,,
+403,,
+404,,fixed defect
+405,,
+406,,
+407,,
+408,,
+409,,
+410,,
+411,,
+412,,
+413,,
+414,,
+415,0.0,
+416,,normal
+417,,
+418,,
+419,,
+420,,
+421,,
+422,,
+423,,
+424,,
+425,,
+426,,reversable defect
+427,,
+428,,
+429,,
+430,,
+431,,
+432,,
+433,,
+434,,
+435,,
+436,,
+437,,
+438,,
+439,,
+440,,
+441,,
+442,,
+443,,
+444,,
+445,,
+446,,
+447,,
+448,,
+449,,
+450,,
+451,,
+452,,
+453,,
+454,,
+455,,
+456,,
+457,,
+458,,
+459,,
+460,,
+461,,
+462,,
+463,,reversable defect
+464,,reversable defect
+465,,
+466,,
+467,,
+468,,
+469,,
+470,,reversable defect
+471,,
+472,,
+473,,fixed defect
+474,,
+475,,
+476,,
+477,,fixed defect
+478,,
+479,,
+480,,
+481,,
+482,,
+483,,
+484,,normal
+485,,
+486,0.0,
+487,,
+488,,
+489,,
+490,,
+491,,
+492,,
+493,,
+494,,
+495,,
+496,,
+497,,
+498,,
+499,,
+500,,
+501,,fixed defect
+502,,fixed defect
+503,,
+504,,
+505,,
+506,,reversable defect
+507,,
+508,,
+509,0.0,reversable defect
+510,,
+511,,
+512,,
+513,,
+514,,
+515,,
+516,,reversable defect
+517,,
+518,,
+519,,
+520,,
+521,,
+522,,
+523,,
+524,,fixed defect
+525,,
+526,,
+527,,
+528,,
+529,,
+530,,
+531,,fixed defect
+532,,fixed defect
+533,,
+534,,
+535,,
+536,,
+537,,
+538,,
+539,,
+540,,
+541,,reversable defect
+542,,
+543,,
+544,,
+545,,reversable defect
+546,,
+547,,
+548,,
+549,,
+550,,
+551,,
+552,,
+553,,
+554,,
+555,,
+556,,reversable defect
+557,,
+558,,
+559,,
+560,,
+561,,
+562,,
+563,,
+564,,
+565,,
+566,,
+567,,
+568,,
+569,,
+570,,
+571,,
+572,,
+573,,
+574,,
+575,,
+576,,
+577,,
+578,,
+579,,
+580,,
+581,,
+582,,
+583,,
+584,,
+585,,
+586,,fixed defect
+587,,
+588,,
+589,,
+590,,
+591,,
+592,,
+593,,
+594,,
+595,,
+596,,reversable defect
+597,,
+598,,
+599,,
+600,,reversable defect
+601,,fixed defect
+602,,
+603,,normal
+604,,
+605,,reversable defect
+606,,normal
+607,,normal
+608,,
+609,,
+610,,
+611,,
+612,,
+613,,reversable defect
+614,,reversable defect
+615,,
+616,,
+617,,reversable defect
+618,,normal
+619,,normal
+620,,
+621,,reversable defect
+622,,fixed defect
+623,,normal
+624,,fixed defect
+625,,fixed defect
+626,,
+627,,
+628,,
+629,,normal
+630,,
+631,,reversable defect
+632,,normal
+633,,
+634,,reversable defect
+635,,reversable defect
+636,,reversable defect
+637,,
+638,,normal
+639,,
+640,,reversable defect
+641,,reversable defect
+642,,reversable defect
+643,,
+644,,reversable defect
+645,,
+646,,reversable defect
+647,,reversable defect
+648,,reversable defect
+649,,
+650,,
+651,,reversable defect
+652,,reversable defect
+653,,reversable defect
+654,,reversable defect
+655,,normal
+656,,
+657,,reversable defect
+658,,
+659,,reversable defect
+660,,
+661,,
+662,1.0,
+663,,fixed defect
+664,,fixed defect
+665,,reversable defect
+666,,
+667,,
+668,,fixed defect
+669,,normal
+670,,
+671,,fixed defect
+672,,normal
+673,,
+674,,reversable defect
+675,,
+676,2.0,
+677,1.0,
+678,,reversable defect
+679,,reversable defect
+680,,
+681,,normal
+682,,
+683,,
+684,,reversable defect
+685,,reversable defect
+686,,
+687,,reversable defect
+688,,reversable defect
+689,,reversable defect
+690,,normal
+691,,
+692,2.0,
+693,,normal
+694,,
+695,,normal
+696,,reversable defect
+697,,
+698,,
+699,,
+700,,
+701,,reversable defect
+702,,normal
+703,,
+704,,
+705,,reversable defect
+706,,fixed defect
+707,,
+708,,reversable defect
+709,,reversable defect
+710,,reversable defect
+711,,normal
+712,,reversable defect
+713,,
+714,,fixed defect
+715,,reversable defect
+716,,reversable defect
+717,,reversable defect
+718,2.0,
+719,,normal
+720,,
+721,,
+722,,
+723,,
+724,,
+725,,
+726,,
+727,,
+728,,
+729,,
+730,,
+731,,
+732,,
+733,,normal
+734,,
+735,,
+736,,
+737,,
+738,,
+739,,
+740,,reversable defect
+741,,
+742,,
+743,,
+744,,
+745,,
+746,,fixed defect
+747,,
+748,,
+749,0.0,reversable defect
+750,,
+751,,
+752,,
+753,,
+754,,
+755,,
+756,,
+757,,
+758,,reversable defect
+759,,
+760,0.0,
+761,,
+762,,reversable defect
+763,,reversable defect
+764,,
+765,,
+766,,reversable defect
+767,,
+768,,
+769,,
+770,,
+771,,reversable defect
+772,,
+773,,reversable defect
+774,,
+775,,
+776,,
+777,,
+778,,
+779,,
+780,,reversable defect
+781,,
+782,,
+783,,
+784,,
+785,,
+786,,
+787,,
+788,,reversable defect
+789,,
+790,,
+791,,
+792,,fixed defect
+793,,
+794,,
+795,,
+796,,reversable defect
+797,,
+798,,
+799,,
+800,,reversable defect
+801,,
+802,,
+803,,
+804,,
+805,,
+806,,
+807,,
+808,,
+809,,
+810,,
+811,,
+812,,reversable defect
+813,,
+814,,
+815,,
+816,,
+817,,
+818,,
+819,,
+820,,
+821,,fixed defect
+822,,
+823,,
+824,,
+825,,
+826,,fixed defect
+827,,reversable defect
+828,,
+829,,
+830,,
+831,,
+832,,
+833,,
+834,,
+835,,
+836,,
+837,,
+838,,
+839,,
+840,,
+841,,
+842,,
+843,,
+844,,
+845,,
+846,,
+847,,
+848,,
+849,,reversable defect
+850,,
+851,,fixed defect
+852,,
+853,,
+854,,
+855,,
+856,,
+857,,
+858,,
+859,,fixed defect
+860,,
+861,,reversable defect
+862,,
+863,,
+864,,
+865,,
+866,,
+867,,
+868,,
+869,,
+870,,
+871,,
+872,,
+873,,
+874,,
+875,,
+876,,
+877,,
+878,,
+879,,
+880,,
+881,,
+882,,
+883,,
+884,,
+885,,reversable defect
+886,,
+887,,reversable defect
+888,,
+889,,
+890,,
+891,,reversable defect
+892,,normal
+893,,reversable defect
+894,,
+895,,
+896,,
+897,,
+898,,fixed defect
+899,,
+900,,
+901,,
+902,,
+903,,reversable defect
+904,,reversable defect
+905,,
+906,,
+907,,
+908,,
+909,,
+910,,normal
+911,,
+912,,
+913,,
+914,,
+915,,normal
+916,,
+917,,
+918,,fixed defect
+919,,
+920,,
